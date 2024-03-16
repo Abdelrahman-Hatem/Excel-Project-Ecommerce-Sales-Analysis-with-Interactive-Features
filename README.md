@@ -45,20 +45,20 @@ In the fast-paced world of e-commerce, understanding customer behavior and sales
 
 ##  Calendar Table Creation:
 
-### Calendar Table Creation Process:
+#### Calendar Table Creation Process:
 - Reference the sales table in Power BI.
 - Identify the earliest and latest dates using DAX functions (MIN, MAX).
 - Create a calendar table using the identified date range with the CALENDAR function.
 - Remove unnecessary columns for efficiency.
 
-##  Drill Down for Value:
+####  Drill Down for Value:
 - Utilize the generated list to drill down into sales data.
 
-##  List of Dates Creation:
+####  List of Dates Creation:
 - Use the DAX formula {number.from(earliestDate)..Number.From(latestDate)} to create a list of dates.
 - Analyze data at different levels (day, week, month) based on the calendar.
 
-## Creation of Relationships Between Tables:
+#### Creation of Relationships Between Tables:
 ![image](https://github.com/Abdelrahman-Hatem/Excel-Project-Ecommerce-Sales-Analysis-with-Interactive-Features/assets/60587162/c204c1a3-3bd5-45be-a20b-3a58c13ef337)
 
 # 6 - Power Pivot and DAX:
