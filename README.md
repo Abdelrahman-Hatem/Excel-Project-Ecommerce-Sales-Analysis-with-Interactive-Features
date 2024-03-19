@@ -3,8 +3,12 @@
 ## 1 - Business Overview:
 The E-commerce Sales Interactive Dashboard is designed to provide comprehensive insights into the sales performance and customer behavior of a bicycle and accessories company. Leveraging Power Query, Power Pivot, and DAX in Excel, the dashboard integrates data from various sources, including customer information, product details, sales records, territories, sales reps, and shipping methods.
 
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
+
+
 ## 2 - Introduction:
 In the fast-paced world of e-commerce, understanding customer behavior and sales trends is critical for sustaining business growth. Our case study delves into the creation of a dynamic and interactive Excel dashboard tailored for a thriving bicycle and accessories company. The goal is to leverage data analytics tools such as Power Query, Power Pivot, and DAX to transform raw data into actionable insights.
+
 
 ## 3 - Objectives:
 - Enhance Decision-Making: Utilize data insights to improve decision-making by understanding customer behavior, identifying top-performing products, and optimizing resource allocation for sustained business growth.
