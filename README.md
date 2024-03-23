@@ -4,6 +4,9 @@
 The E-commerce Sales Interactive Dashboard is designed to provide comprehensive insights into the sales performance and customer behavior of a bicycle and accessories company. Leveraging Power Query, Power Pivot, and DAX in Excel, the dashboard integrates data from various sources, including customer information, product details, sales records, territories, sales reps, and shipping methods.
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
+![DAX](https://img.shields.io/badge/DAX-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346.svg?style=for-the-badge&logo=Microsoft-Power-BI&logoColor=white)
+
 
 
 ## 2 - Introduction:
